@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-int pin,choice,amount=1000,withdraw,deposit,opin,npin;
+int pin,choice,amount=1000,withdraw,deposit,opin,npin,i;
 char transaction;
 int temp;
 int main()
